@@ -852,10 +852,4 @@ class BazhiDate():
 
 
 
-# a = lunardate.LunarDate(1917,5,3).toSolarDate()
-#
-# b = datetime.datetime(a.year,a.month,a.day,12,59)
-# c = BazhiDate(b,sex=1)
-# print c.xunKong_list()
 
-## !! 纳音推算错误?
